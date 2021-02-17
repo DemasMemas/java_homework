@@ -47,7 +47,6 @@ public class Main {
 					{"S", "T", "U", "V", "W", "X"},
 					{"Y", "Z", "1", "2", "3", "4"},
 					{"5", "6", "7", "8", "9", "0"}};
-			String[] adfgvxString = {"A", "D", "F", "G", "V", "X"};
 			String checkString = "ADFGVX";
 			String answerString = "";
 			Scanner in = new Scanner(System.in);
