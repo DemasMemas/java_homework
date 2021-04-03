@@ -1,2 +1,2 @@
-# java_homework
-Here I post my homework for java learning
+# java_notes_bot
+Here I post my notes bot
